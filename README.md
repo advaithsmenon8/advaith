@@ -18,7 +18,7 @@ I'm interested in vulnerability assessment, network security, and threat identif
 
 ## 💼 Experience
 
-- 🖥️ **IT Intern, G10X Technology**: built internal apps with role-based access control and audit logging using Power Apps, Dataverse and Entra ID
+- 🖥️ **IT Intern, G10X Technology Pvt Ltd**: built internal apps with role-based access control and audit logging using Power Apps, Dataverse and Entra ID
 - 🧠 **Research Intern, IIT Mandi**: domain adaptation for audio and image classification with PyTorch
 - 🔐 **Cyber Security Intern, 10xDS**: hands-on exposure to information security practices
 
