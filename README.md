@@ -1,53 +1,50 @@
-# 👋 Hi, I'm Advaith S Menon  
+# 👋 Hi, I'm Advaith S Menon
 
-🎓 **Final-year B.Tech. student in Computer Science and Business Systems (CSBS)** at *Rajagiri School of Engineering & Technology*, Kochi.  
-💡 Passionate about **Artificial Intelligence**, **Cybersecurity**, and **Data Analytics**, with a focus on using technology to solve real-world problems.  
+🛡️ **Aspiring cybersecurity professional** · B.Tech CSBS graduate, Rajagiri School of Engineering & Technology
+🎓 Currently pursuing the **Advanced Executive Program in Cybersecurity** at IIIT Bangalore
 
----
-
-## 🚀 About Me  
-- 🔍 Interested in **AI-powered systems**, **data visualization**, and **cross-domain research**  
-- 💻 Experienced in developing web applications, research projects, and AI-driven platforms  
-- 🧠 Currently exploring **domain adaptation techniques** for audio and image classification  
-- 💬 Always open to collaborations on AI, ML, or cybersecurity projects  
+I'm interested in vulnerability assessment, network security, and threat identification. I'm looking for **entry-level roles** such as SOC Analyst, Security Analyst, or Junior Penetration Tester.
 
 ---
 
-## 🧩 Featured Projects  
-### 🧠 Unsupervised Domain Adaptation for Image & Audio Classification  
-Implemented GRL, GVB, and PaSST techniques to improve cross-domain generalization in classification tasks.  
-**Tech Stack:** Python, PyTorch, TensorFlow, Jupyter Notebook  
+## 🔐 What I Work With
 
-### ♻️ Smart E-Waste Management Platform  
-Developed a web app integrating an AI chatbot and Google Maps API to promote e-waste recycling and community rewards.  
-**Tech Stack:** Flask, Python, HTML/CSS, JavaScript, Google Maps API  
-
-### 🌍 MEDIFLUENT – Global Healthcare Platform  
-Built a platform for international travelers to find local medical services, equivalent medicines, and emergency help.  
-**Tech Stack:** Flask, MySQL, Bootstrap, Tailwind CSS, Google Maps API  
+- **Security tools:** Nmap, Wireshark, Splunk
+- **Networking & OS:** TCP/IP, DNS, Linux, Windows
+- **Languages:** Python, MySQL
+- **Focus areas:** Vulnerability assessment · Penetration testing basics · Threat identification · Risk assessment
 
 ---
 
-## 🛠️ Skills  
-**Programming:** Python, C, C++, MySQL  
-**Tools:** Power BI, Visual Studio Code, Git/GitHub  
-**Specializations:** AI & ML, Cybersecurity, Data Visualization, Web Development  
-**Soft Skills:** Leadership, Communication, Problem-Solving, Adaptability  
+## 💼 Experience
+
+- 🖥️ **IT Intern, G10X Technology**: built internal apps with role-based access control and audit logging using Power Apps, Dataverse and Entra ID
+- 🧠 **Research Intern, IIT Mandi**: domain adaptation for audio and image classification with PyTorch
+- 🔐 **Cyber Security Intern, 10xDS**: hands-on exposure to information security practices
 
 ---
 
-## 🎓 Experience  
-- 🧠 **Research Intern – IIT Mandi (Feb 2025 – Jun 2025)**  
-  Worked on domain adaptation for speech, audio, and image data using advanced neural network models.  
+## 🧩 Selected Projects
 
-- 🔐 **Cybersecurity Intern – Exponential Digital Solutions (10xDS)**  
-  Gained hands-on experience in real-world information security practices and penetration testing using Kali Linux.  
+- 🧠 **MindConnect**: EEG-based brain-computer interface for laptop and IoT control (Python, TensorFlow)
+- 🔬 **Domain Adaptation for Image & Audio Classification**: GRL and GVB techniques (Python, PyTorch)
+- 🌍 **MEDIFLUENT**: healthcare platform for international travelers (Python, MySQL)
 
 ---
 
-## 📫 Connect with Me  
-- **Email:** [advaithsmenon8@gmail.com](mailto:advaithsmenon8@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/advaithsmenon](https://linkedin.com/in/advaithsmenon)   
+## 📜 Certifications
+
+- 🎓 Advanced Executive Program in Cybersecurity, IIIT Bangalore *(ongoing)*
+- 🛡️ Cybersecurity Fundamentals, IBM SkillsBuild
+- ☁️ Certified Application Developer, ServiceNow
+- ☁️ Certified System Administrator, ServiceNow
+
+📚 **Published:** *AI-Supported Predictive System for Global Healthcare Services*, Springer LNNS (IC2ML 2026)
+
+---
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/advaithsmenon) · [Email](mailto:advaithsmenon8@gmail.com)
 
 ---
 
